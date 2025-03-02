@@ -1,0 +1,10 @@
+# 核心依赖
+python-tkinter>=3.9.0  # GUI界面
+ollama>=0.1.0  # LLM模型集成
+langchain>=0.0.300  # LLM框架
+
+# 功能依赖
+PyYAML>=6.0.1  # 配置文件处理
+pillow>=10.0.0  # 图像处理
+networkx>=3.1  # 图形布局
+numpy>=1.24.0  # 数值计算
